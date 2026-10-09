@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WiFi Network Analyzer
 
 A lightweight Python dashboard to scan local Wi-Fi networks in real time, inspect signal strengths, and identify congested channels. Built with Streamlit, PyWiFi, Pandas, and Matplotlib.
@@ -64,3 +65,6 @@ Once running, the dashboard opens in your browser at `http://localhost:8501`.
 - Signal metrics: Signal is reported in dBm. Closer to 0 is stronger (-30 dBm is very strong, -80 dBm is weak).
 - Dual-band networks: Routers often broadcast the same SSID on both 2.4 GHz and 5 GHz. The scanner sorts by signal strength and keeps the strongest entry per SSID.
 - Windows driver quirks: On some Windows installs, native Wi-Fi drivers can be slow to return results via COM. If PyWiFi returns empty results, the scanner automatically falls back to Windows `netsh wlan show networks mode=bssid` so the UI does not hang or show empty results.
+=======
+# Real-Time-WiFi-Network-Analyzer
+>>>>>>> acce9de5fd2ea1e62cc7d46d857550373cdc5d49
