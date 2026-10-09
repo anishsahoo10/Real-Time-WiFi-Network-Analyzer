@@ -1,7 +1,9 @@
 #OUTPUT
+<br>
 <img width="500" height="250" alt="Screenshot 2026-10-09 214026" src="https://github.com/user-attachments/assets/b4bdc160-16b2-42fa-abe6-9d1566c60968" />
+<br>
 <img width="500" height="250" alt="Screenshot 2026-10-09 214046" src="https://github.com/user-attachments/assets/846bc1ac-ead1-4063-baf4-9c7e40db25f2" />
-
+<br>
 
 # WiFi Network Analyzer
 
