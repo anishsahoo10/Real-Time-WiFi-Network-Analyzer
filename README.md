@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+#OUTPUT
+<img width="952" height="520" alt="Screenshot 2026-10-09 214026" src="https://github.com/user-attachments/assets/b4bdc160-16b2-42fa-abe6-9d1566c60968" />
+
 # WiFi Network Analyzer
 
 A lightweight Python dashboard to scan local Wi-Fi networks in real time, inspect signal strengths, and identify congested channels. Built with Streamlit, PyWiFi, Pandas, and Matplotlib.
